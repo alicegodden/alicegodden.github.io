@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-Passionate about how the environment affects reproduction and fertility across species. 
+Passionate about how the environment affects reproduction and fertility across species. I'm currently a senior post-doctoral research scientist at the University of East Anglia, Norwich, UK.
 I'm a computational biologist and bioinformatician specializing in **genomics and RNA biology**. My work focuses on developing computational tools and reproducible workflows to analyze complex biological data, particularly **small RNAs and transposable elements**. I am passionate about creating open-source software that empowers biologists and facilitates collaborative research.
 
 ---
