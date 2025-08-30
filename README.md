@@ -1,13 +1,10 @@
 
 
 # Dr. Alice Godden
-
-### Computational Biologist | Bioinformatics Engineer | Open-Source Enthusiast
-
 <p align="right">
   <img src="https://github.com/alicegodden.png" alt="Dr. Alice Godden Profile Image" width="200" style="border-radius:50%;" />
 </p>
-
+### Computational Biologist | Bioinformatics Engineer | Open-Source Enthusiast
 ---
 
 ## About Me
