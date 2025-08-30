@@ -62,9 +62,9 @@
     <div class="max-w-4xl mx-auto px-6 text-center">
       <h2 class="text-2xl font-semibold mb-4">🤝 Connect With Me</h2>
       <div class="space-x-4">
-        <a href="https://linkedin.com/in/YOUR-LINK" class="text-blue-600 hover:underline">LinkedIn</a>
-        <a href="https://orcid.org/YOUR-ID" class="text-green-600 hover:underline">ORCID</a>
-        <a href="mailto:YOUR_EMAIL" class="text-red-600 hover:underline">Email</a>
+        <a href="linkedin.com/in/alicegodden?originalSubdomain=uk" class="text-blue-600 hover:underline">LinkedIn</a>
+        <a href="https://orcid.org/0000-0001-5760-011X" class="text-green-600 hover:underline">ORCID</a>
+        <a href="mailto:alice.godden@uea.ac.uk" class="text-red-600 hover:underline">Email</a>
         <a href="https://github.com/alicegodden" class="text-gray-800 hover:underline">GitHub</a>
       </div>
     </div>
