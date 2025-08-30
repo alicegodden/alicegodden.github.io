@@ -5,7 +5,7 @@
 
 # Dr. Alice Godden 
 
-### Bioinformatics Engineer | Molecular Biologist | Open-Source Enthusiast
+### Bioinformatics Engineer | Molecular Biologist | Open-Source Enthusiast 
 
 ---
 
