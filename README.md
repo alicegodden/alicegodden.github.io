@@ -1,7 +1,7 @@
 
 # Dr. Alice Godden 
 
-<p align="left">
+<p align="right">
   <img src="https://github.com/alicegodden.png" alt="Dr. Alice Godden Profile Image" width="200" style="border-radius:50%;" />
 </p>
 
@@ -65,7 +65,7 @@ A user-friendly, GUI-based tool for analyzing **piRNA transposable element expre
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alicegodden&show_icons=true&theme=default&hide_rank=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alicegodden&show_icons=true&theme=default&hide_rank=true&cache_bust=1" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicegodden&layout=compact&theme=default" />
 </p>
 
