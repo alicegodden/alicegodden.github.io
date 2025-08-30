@@ -1,4 +1,4 @@
-# 👩‍💻 Alice Godden  
+# Dr. Alice Godden  
 ### Computational Biologist | Bioinformatics Engineer | Open-Source Enthusiast  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alicegodden&style=flat-square&color=blue)  
@@ -7,7 +7,7 @@
 ---
 
 ## About Me  
-I'm passionate about **bioinformatics, computational genomics, and RNA biology**. My work focuses on developing tools to analyze **piRNA and transposable elements**, with an emphasis on creating intuitive, reproducible, and visual workflows for biological data.
+I'm passionate about **bioinformatics, computational genomics, and RNA biology**. My current work focuses on developing tools to analyze **sRNA and transposable elements**, with an emphasis on creating intuitive, reproducible, and visual workflows for biological data.
 
 ---
 
@@ -20,7 +20,6 @@ A GUI-based tool for analyzing **piRNA transposable element expression**.
 - 📊 Generates publication-ready plots  
 - 🎨 Intuitive GUI for biologists & computational researchers  
 
-![FishPi Demo](fishpi_demo.png)
 
 ---
 
@@ -28,17 +27,45 @@ A GUI-based tool for analyzing **piRNA transposable element expression**.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-00599C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4E7CBF?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
 ## 📚 Publications & Talks  
-<!-- AUTO-GENERATED PUBLICATIONS START -->
-<!-- This section will be automatically updated by GitHub Actions -->
-*(Your ORCID publications will appear here.)*
-<!-- AUTO-GENERATED PUBLICATIONS END -->
+Based on the available information, here is a list of publications by Dr. Alice Godden at the University of East Anglia (UEA).
+
+Journal Articles
+
+Godden, A. M., Silva, W. T. A. F., Kiehl, B., Jolly, C., Folkes, L., Alavioon, G. & Immler, S. (2025). Environmentally induced variation in sperm sRNAs is linked to gene expression and transposable elements in zebrafish offspring. Heredity, 134(3), 234-246.
+
+Godden, A. M., Rix, B., & Immler, S. (2025). FishPi: a bioinformatic prediction tool to link piRNA and transposable elements. Mobile DNA, 16(1), 2.
+
+Abi Assaf, J., de Coriolis, J-C., Godden, A., Redhead, E., Bartram, J., Cohen, J., Silova, K., Crighton, Z., Le Gall, G., Sami, S. & Khalid, S. A. (2025). Gum Arabic modulates the microbiota-gut-brain axis and affects general fitness in zebrafish. Scientific Reports. (Accepted/In press).
+
+Cohen-Krais, J., Martins, C., Bartram, J., Crighton, Z., de Coriolis, J-C., Godden, A., Marcu, D., Robak, W., Saalbach, G. & Immler, S. (2025). The zebrafish sperm proteome. Proteomics, 25(4), e202400310.
+
+
+Godden, A. M. & Immler, S. (2023). The potential role of the mobile and non-coding genomes in adaptive response. Trends in Genetics, 39(1), 5-8.
+
+Godden, A. M., Antonaci, M., Ward, N. J., van der Lee, M., Abu-Daya, A., & Guille, M. (2022). An efficient miRNA knockout approach using CRISPR-Cas9 in Xenopus. Developmental Biology, 483, 66-75.
+
+Mok, G. F., Folkes, L., Weldon, S. A., Maniou, E., Martinez-Heredia, V., Godden, A. M., Williams, R. M., Sauka-Spengler, T., Wheeler, G. N., Moxon, S. & others. (2021). Characterising open chromatin in chick embryos identifies cis-regulatory elements important for paraxial mesoderm formation and axis extension. Nature Communications, 12(1), 1157.
+
+Book Chapters
+
+Godden, A. M., Antonaci, M. & Wheeler, G. N. (2023). An Efficient CRISPR-Cas9 Method to Knock Out MiRNA Expression in Xenopus Tropicalis. In T. Dalmay (Ed.), MicroRNA Detection and Target Identification: Methods and Protocols (Vol. 2630, pp. 231-241). Humana Press.
+
+Antonaci, M., Godden, A. M. & Wheeler, G. N. (2023). Determining miRNA Expression Patterns in Xenopus. In T. Dalmay (Ed.), MicroRNA Detection and Target Identification: Methods and Protocols (Vol. 2630, pp. 145-154). Humana Press.
+
+Preprints
+
+Godden, A. M., Rix, B. T., & Immler, S. (2025). FishPi: a bioinformatic prediction tool to link piRNA and transposable elements. Mobile DNA, 16(1), 2.
+
+Marcu, D., Cohen-Krais, J., Godden, A., Alavioon, G., Martins, C., Almstrup, K., Immler, S. (2024). Within-ejaculate haploid selection reduces disease biomarkers in human sperm. bioRxiv.
+
+Godden, A. M., Rix, B. T., & Immler, S. (2024). Diverging transposon activity among polar bear sub-populations inhabiting different climate zones. bioRxiv.
+
+Godden, A. M., Ward, N., Sittewelle, M., Antonaci, M., Kotov, A., & others. (2025). MicroRNA miR-196a controls neural crest patterning by repressing immature neural ectoderm programs in Xenopus embryos. bioRxiv.
 
 ---
 
