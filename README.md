@@ -2,9 +2,6 @@
 
 ### Computational Biologist | Bioinformatics Engineer | Open-Source Enthusiast
 
-![Profile Views](https://komarev.com/ghpvc/?username=alicegodden&style=flat-square&color=blue)
-[![GitHub followers](https://img.shields.io/github/followers/alicegodden?label=Followers&style=social)](https://github.com/alicegodden)
-
 ---
 
 ## About Me
@@ -76,5 +73,7 @@ A user-friendly, GUI-based tool for analyzing **piRNA transposable element expre
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alicegodden)
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=alicegodden&style=flat-square&color=blue)
+[![GitHub followers](https://img.shields.io/github/followers/alicegodden?label=Followers&style=social)](https://github.com/alicegodden)
 
 © 2025 Alice Godden. 
