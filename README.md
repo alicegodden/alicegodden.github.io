@@ -1,15 +1,19 @@
-# Dr. Alice Godden
-
-### Computational Biologist | Bioinformatics Engineer | Open-Source Enthusiast
-<p align="right">
-  <img src="https://github.com/alicegodden.png" alt="Dr. Alice Godden Profile Image" width="200" style="border-radius:50%;" />
-</p>
-
----
-
-## About Me
-Passionate about how the environment affects reproduction and fertility across species. I'm currently a senior post-doctoral research scientist at the University of East Anglia, Norwich, UK.
-I'm a computational biologist and bioinformatician specializing in **genomics and RNA biology**. My work focuses on developing computational tools and reproducible workflows to analyze complex biological data, particularly **small RNAs and transposable elements**. I am passionate about creating open-source software that empowers biologists and facilitates collaborative research.
+<table style="width:100%; border:none;">
+  <tr style="border:none;">
+    <td style="width:70%; vertical-align:top; padding-right:20px; border:none;">
+      # Dr. Alice Godden
+      ### Computational Biologist | Bioinformatics Engineer | Open-Source Enthusiast
+      <br>
+      ## About Me
+      Passionate about how the environment affects reproduction and fertility across species. I'm currently a senior post-doctoral research scientist at the University of East Anglia, Norwich, UK.
+      <br><br>
+      I'm a computational biologist and bioinformatician specializing in **genomics and RNA biology**. My work focuses on developing computational tools and reproducible workflows to analyze complex biological data, particularly **small RNAs and transposable elements**. I am passionate about creating open-source software that empowers biologists and facilitates collaborative research.
+    </td>
+    <td style="width:30%; vertical-align:top; text-align:right; border:none;">
+      <img src="https://github.com/alicegodden.png" alt="Dr. Alice Godden Profile Image" width="200" style="border-radius:50%; margin-top:0px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -19,9 +23,9 @@ I'm a computational biologist and bioinformatician specializing in **genomics an
 
 A user-friendly, GUI-based tool for analyzing **piRNA transposable element expression** from small RNA sequencing data.
 
--   **🧬 Extracts & visualizes piRNA TE dynamics:** Provides deep insights into the activity of transposons.
--   **📊 Generates publication-ready plots:** Automates the creation of high-quality figures.
--   **🎨 Intuitive GUI:** Designed to be accessible for both biologists and computational researchers.
+-   🧬 Extracts & visualizes piRNA TE dynamics: Provides deep insights into the activity of transposons.
+-   📊 Generates publication-ready plots: Automates the creation of high-quality figures.
+-   🎨 Intuitive GUI: Designed to be accessible for both biologists and computational researchers.
 
 ---
 
@@ -62,8 +66,8 @@ A user-friendly, GUI-based tool for analyzing **piRNA transposable element expre
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alicegodden&show_icons=true&theme=default&hide_rank=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicegodden&layout=compact&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api?username=alicegodden&show_icons=true&theme=default&hide_rank=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicegodden&layout=compact&theme=default" />
 </p>
 
 ---
@@ -75,8 +79,11 @@ A user-friendly, GUI-based tool for analyzing **piRNA transposable element expre
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alice.godden@uea.ac.uk)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alicegodden)
 
----
+<br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=alicegodden&style=flat-square&color=blue)
 [![GitHub followers](https://img.shields.io/github/followers/alicegodden?label=Followers&style=social)](https://github.com/alicegodden)
 
-© 2025 Alice Godden. 
+---
+
+© 2025 Alice Godden.
