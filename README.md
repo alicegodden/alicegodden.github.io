@@ -77,4 +77,4 @@ A user-friendly, GUI-based tool for analyzing **piRNA transposable element expre
 
 ---
 
-© 2025 Alice Godden. Built with ❤️ and GitHub Pages.
+© 2025 Alice Godden. 
