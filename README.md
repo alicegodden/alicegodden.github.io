@@ -55,8 +55,6 @@ A user-friendly, GUI-based tool for analyzing **piRNA transposable element expre
 ### **Preprints**
 
 * Marcu, D., Cohen-Krais, J., **Godden, A.**, Alavioon, G., Martins, C., Almstrup, K., Immler, S. (2024). Within-ejaculate haploid selection reduces disease biomarkers in human sperm. *bioRxiv*.
-* **Godden, A. M.**, Rix, B. T., & Immler, S. (2024). Diverging transposon activity among polar bear sub-populations inhabiting different climate zones. *bioRxiv*.
-
 * **Godden, A. M.** , Rix, B. T. & Immler, S. Diverging transposon activity among polar bear sub-populations inhabiting different climate zones. *bioRxiv*, 2024.2012.2004.626794 (2025). https://doi.org/10.1101/2024.12.04.626794
 
 ---
