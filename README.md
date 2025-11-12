@@ -5,7 +5,7 @@
 </p>
  
 
-### Bioinformatics Engineer | Molecular Biologist | Open-Source Enthusiast 
+### Bioinformatician | Molecular Biologist | Open-Source Enthusiast 
 
 ---
 
@@ -14,7 +14,7 @@ I am a Senior Postdoctoral Research Scientist at the University of East Anglia, 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 🐟 [FishPi](https://github.com/alicegodden/fishpi)
 
@@ -38,8 +38,8 @@ A user-friendly, GUI-based tool for analyzing **piRNA transposable element expre
 ## 📚 Publications
 
 ### **Journal Articles**
-
-* Abi Assaf, J., de Coriolis, J-C., **Godden, A.**, et al. (2025). Gum Arabic modulates the microbiota-gut-brain axis and affects general fitness in zebrafish. *Scientific Reports*. (Accepted/In press).
+* Abi Assaf, J., de Coriolis, J-C., **Godden, A.**, et al. (2025). Gum Arabic modulates the microbiota-gut-brain axis and affects general fitness in zebrafish. *Scientific Reports*. **Co-first author
+* **Godden, A. M.** et al. MicroRNA miR-196a controls neural crest patterning by repressing immature neural ectoderm programs in Xenopus embryos. *Dev Biol* 528, 117-127 (2025). 
 * Cohen-Krais, J., Martins, C., Bartram, J., de Coriolis, J-C., **Godden, A.**, et al. (2025). The zebrafish sperm proteome. *Proteomics*, 25(4), e202400310.
 * **Godden, A. M.**, Silva, W. T. A. F., Kiehl, B., Jolly, C., Folkes, L., Alavioon, G. & Immler, S. (2025). Environmentally induced variation in sperm sRNAs is linked to gene expression and transposable elements in zebrafish offspring. *Heredity*, 134(3), 234-246.
 * **Godden, A. M.**, Rix, B., & Immler, S. (2025). FishPi: a bioinformatic prediction tool to link piRNA and transposable elements. *Mobile DNA*, 16(1), 2.
@@ -54,9 +54,10 @@ A user-friendly, GUI-based tool for analyzing **piRNA transposable element expre
 
 ### **Preprints**
 
-* **Godden, A. M.**, Ward, N., Sittewelle, M., Antonaci, M., Kotov, A., & others. (2025). MicroRNA miR-196a controls neural crest patterning by repressing immature neural ectoderm programs in Xenopus embryos. *bioRxiv*.
 * Marcu, D., Cohen-Krais, J., **Godden, A.**, Alavioon, G., Martins, C., Almstrup, K., Immler, S. (2024). Within-ejaculate haploid selection reduces disease biomarkers in human sperm. *bioRxiv*.
 * **Godden, A. M.**, Rix, B. T., & Immler, S. (2024). Diverging transposon activity among polar bear sub-populations inhabiting different climate zones. *bioRxiv*.
+
+* **Godden, A. M.** , Rix, B. T. & Immler, S. Diverging transposon activity among polar bear sub-populations inhabiting different climate zones. *bioRxiv*, 2024.2012.2004.626794 (2025). https://doi.org/10.1101/2024.12.04.626794
 
 ---
 
