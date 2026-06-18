@@ -1,0 +1,18 @@
+title: "Dr. Alice Godden"
+description: "Bioinformatician | Genomics | RNA Biology"
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-include-cache
+
+author:
+  name   : "Dr. Alice Godden"
+  avatar : "/assets/images/profile.png"
+  bio    : "Senior Research Associate specialising in genomics, RNA biology, and environmental effects on fertility."
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/alicegodden"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/alicegodden"
