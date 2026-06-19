@@ -2,7 +2,7 @@
 layout: splash
 header:
   overlay_image: /assets/images/banner.jpg
-  overlay_filter: "0.45"
+  overlay_filter: "0.35"
   caption: "Dr. Alice Godden, PhD, MSc, BSc (Hons), FHEA"
   
 ---
