@@ -40,7 +40,7 @@ A user-friendly, GUI-based tool for analysing **piRNA transposable element expre
 
 ---
 
-## 📚 Publications  
+## 📚 Selected Publications  
 
 ### 🧾 Journal Articles  
 
