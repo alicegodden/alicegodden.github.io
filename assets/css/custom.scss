@@ -41,7 +41,7 @@
   align-items: flex-end;       /* moves content to bottom */
   text-align: right;
   padding-right: 6%;
-  padding-bottom: 200px;        /* controls how low it sits */
+  padding-bottom: 50px;        /* controls how low it sits */
 }
 
 .greedy-nav a {
@@ -49,5 +49,5 @@
 }
 
 .page__hero--overlay {
-  min-height: 100vh;
+  min-height: 200vh;
 }
