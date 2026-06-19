@@ -51,3 +51,24 @@
 .page__hero--overlay {
   min-height: 200vh;
 }
+
+.page__hero--overlay {
+  min-height: 80vh;              /* bigger banner */
+  background-position: center 60%;
+  background-size: cover;
+}
+
+/* bottom-right placement */
+.page__hero--overlay .wrapper {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  text-align: right;
+  padding-right: 6%;
+  padding-bottom: 60px;
+}
+
+/* remove duplicate big title */
+.page__hero--overlay .page__title {
+  display: none;
+}
