@@ -25,7 +25,7 @@ I develop **computational tools and reproducible workflows** to analyse complex 
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Software
 
 ### 🐟 FishPi  
 
