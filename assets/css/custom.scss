@@ -34,3 +34,12 @@
 .page__hero--overlay .btn:hover {
   background-color: #14B8A6;
 }
+
+.page__hero--overlay .wrapper {
+  display: flex;
+  justify-content: flex-end;   /* keep it right-aligned */
+  align-items: flex-end;       /* moves content to bottom */
+  text-align: right;
+  padding-right: 6%;
+  padding-bottom: 60px;        /* controls how low it sits */
+}
