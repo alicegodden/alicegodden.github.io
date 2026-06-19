@@ -2,15 +2,15 @@ title: ""
 description: "Bioinformatician | Genomics | RNA Biology"
 
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: default
 
 plugins:
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 author:
   name   : "Dr. Alice Godden, PhD, MSc, BSc (Hons), FHEA"
   avatar : "/assets/images/profile.png"
-  bio    : "Senior Research Associate specialising in genomics, RNA biology, and environmental effects on fertility."
 
 header_pages:
   - projects.md
