@@ -88,3 +88,22 @@
   color: #111827 !important;
   font-weight: 500;
 }
+
+.page__hero--overlay {
+  min-height: 80vh;
+  background-position: center 60%;
+  background-size: cover;
+}
+
+.page__hero--overlay .wrapper {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  text-align: right;
+  padding-right: 6%;
+  padding-bottom: 60px;
+}
+
+.page__hero--overlay .page__title {
+  display: none;
+}
