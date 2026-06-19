@@ -1,10 +1,9 @@
 ---
 layout: splash
-title: "Dr. Alice Godden, PhD, MSc, BSc (Hons), FHEA"
 header:
   overlay_image: /assets/images/banner.jpg
-  overlay_filter: "0.35"
-  caption: "Genomics • RNA Biology • Bioinformatics"
+  overlay_filter: "0.45"
+  caption: "Dr. Alice Godden, PhD, MSc, BSc (Hons), FHEA"
   
 ---
 
@@ -19,7 +18,7 @@ I develop **computational tools and reproducible workflows** to analyse complex 
 
 ## 🛠️ Skills & Tools  
 
-**Python · R · Bash · Slurm/Unix · GitHub Actions**
+**Molecular Biology · Python · R · Bash · Slurm/Unix**
 
 ---
 
