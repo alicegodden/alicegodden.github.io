@@ -5,9 +5,7 @@ header:
   overlay_image: /assets/images/banner.jpg
   overlay_filter: "0.35"
   caption: "Genomics • RNA Biology • Bioinformatics"
-  actions:
-    - label: "View Projects"
-      url: "#projects"
+  
 ---
 
 ## 👩‍🔬 About Me
