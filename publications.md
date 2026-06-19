@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Publications"
+title: "Research Outputs"
 ---
 
 ### 🧾 Journal Articles  
