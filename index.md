@@ -105,24 +105,39 @@ A user-friendly, GUI-based tool for analysing **piRNA transposable element expre
   **bioRxiv**  
 
 ---
-
-## 📈 GitHub Stats  
+## 📈 GitHub Stats
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api/top-langs/?username=alicegodden&layout=compact
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicegodden&layout=compact&hide_border=true" />
 </p>
 
 ---
 
 ## 🤝 Connect With Me  
 
-- 💼 LinkedIn: https://linkedin.com/in/alicegodden  
-- 🧬 ORCID: https://orcid.org/0000-0001-5760-011X  
-- 📧 Email: alice.godden@uea.ac.uk  
-- 💻 GitHub: https://github.com/alicegodden  
+<p align="center">
+
+<a href="https://linkedin.com/in/alicegodden">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://orcid.org/0000-0001-5760-011X">
+  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
+
+<a href="mailto:alice.godden@uea.ac.uk">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/alicegodden">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  <sub>© 2025 Alice Godden</sub>
+  <img src="https://komarev.com/ghpvc/?username=alicegodden&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/alicegodden?style=for-the-badge" />
 </p>
