@@ -1,8 +1,7 @@
 ---
 layout: single
 title: "Press"
+permalink: /press/
 ---
 
 ## 📰 Press & Media
-
-(Add your Guardian + media section here)
