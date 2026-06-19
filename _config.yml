@@ -1,12 +1,13 @@
-title: "Dr. Alice Godden"
+title: ""
 description: "Bioinformatician | Genomics | RNA Biology"
+
 remote_theme: mmistakes/minimal-mistakes
 
 plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Dr. Alice Godden"
+  name   : "Dr. Alice Godden, PhD, MSc, BSc (Hons), FHEA"
   avatar : "/assets/images/profile.png"
   bio    : "Senior Research Associate specialising in genomics, RNA biology, and environmental effects on fertility."
   links:
@@ -16,32 +17,7 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/alicegodden"
-      
-header_pages:
-  - projects.md
-  - publications.md
-  - outreach.md
-  - press.md
 
-title: "Dr. Alice Godden"
-description: "Bioinformatician | Genomics | RNA Biology"
-remote_theme: mmistakes/minimal-mistakes
-
-plugins:
-  - jekyll-include-cache
-
-author:
-  name   : "Dr. Alice Godden"
-  avatar : "/assets/images/profile.png"
-  bio    : "Senior Research Associate specialising in genomics, RNA biology, and environmental effects on fertility."
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/alicegodden"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/alicegodden"
-      
 header_pages:
   - projects.md
   - publications.md
