@@ -18,6 +18,11 @@ My research explores how the environment impacts reproduction and fertility, com
 
 I develop **computational tools and reproducible workflows** to analyse complex biological data, with a particular focus on **small RNAs** and **transposable elements**, supporting open-source science and collaboration.
 
+
+## 🛠️ Skills & Tools  
+
+**Python · R · Bash · Slurm/Unix · GitHub Actions**
+
 ---
 
 ## 🚀 Featured Project
@@ -30,13 +35,7 @@ A user-friendly, GUI-based tool for analysing **piRNA transposable element expre
 - 📊 Generates publication-ready plots  
 - 🎨 Intuitive GUI designed for biologists and computational researchers  
 
-👉 https://github.com/alicegodden/fishpi  
-
----
-
-## 🛠️ Skills & Tools  
-
-**Python · R · Bash · Slurm/Unix · GitHub Actions**
+👉 Available [here](https://github.com/alicegodden/fishpi) 
 
 ---
 
@@ -107,6 +106,42 @@ A user-friendly, GUI-based tool for analysing **piRNA transposable element expre
   **bioRxiv**  *Co-first author* 
 
 ---
+
+## 📰 Press & Media
+
+Research from our group on **transposable element dynamics across polar bear populations** has attracted international media attention, highlighting its relevance to climate change and genome evolution.
+
+### 🌍 Global Coverage  
+
+- 🗞️ **The Guardian**  
+  Featured coverage highlighted how environmental differences across Arctic regions may influence genome regulation and transposable element activity, bringing broader attention to the role of “jumping genes” in adaptation.
+
+- 🌐 **International science and media outlets**  
+  The study has been picked up by multiple platforms worldwide, reflecting growing interest in how **climate variation can shape genome architecture and evolutionary processes**.
+
+---
+
+### 📄 Featured Publication  
+
+**Godden, A. M.**, Rix, B. T. & Immler, S. (2025).  
+*Diverging transposon activity among polar bear sub-populations inhabiting different climate zones.*  
+**Mobile DNA**  
+DOI: https://doi.org/10.1186/s13100-025-00387-4  
+
+---
+
+### 🔬 Why This Matters  
+
+This work contributes to a broader understanding of:
+
+- 🌡️ How climate variation influences genome regulation  
+- 🧬 The role of transposable elements in adaptive processes  
+- 🐻 Evolutionary responses in natural populations under environmental stress  
+
+Together, these findings help bridge **molecular biology and ecological change**, with implications for understanding how organisms respond to rapidly changing environments.
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
