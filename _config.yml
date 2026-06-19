@@ -1,7 +1,7 @@
 title: ""
 description: "Bioinformatician | Genomics | RNA Biology"
 
-remote_theme: mmistakes/minimal-mistakes
+theme: minima
 minimal_mistakes_skin: default
 
 plugins:
