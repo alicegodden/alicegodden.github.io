@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 ## 📚 Publications
+## 📚 Publications
 
 ### 🧾 Journal Articles  
 
