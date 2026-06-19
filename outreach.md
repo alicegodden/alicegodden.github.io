@@ -1,8 +1,7 @@
 ---
 layout: single
 title: "Outreach"
+permalink: /outreach/
 ---
 
 ## 🌍 Outreach
-
-(Add talks, engagement, public science work here)
