@@ -1,7 +1,10 @@
 ---
 layout: single
-title: "Research Outputs"
+title: "Publications"
+permalink: /publications/
 ---
+
+## 📚 Publications
 
 ### 🧾 Journal Articles  
 
