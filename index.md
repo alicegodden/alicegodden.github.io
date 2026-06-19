@@ -4,12 +4,11 @@ header:
   overlay_image: /assets/images/banner.jpg
   overlay_filter: "0.35"
   caption: "Dr. Alice Godden, PhD, MSc, BSc (Hons), FHEA"
-  
 ---
 
+<div style="margin-top: 60px;"></div>
 
 ## 👩‍🔬 About Me
-
 I am a **Senior Postdoctoral Research Scientist** at the University of East Anglia, UK.
 
 My research explores how the environment impacts reproduction and fertility, combining expertise in **computational biology and bioinformatics** with specialisation in **genomics and RNA biology**.
