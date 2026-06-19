@@ -1,15 +1,16 @@
 title: ""
 description: "Bioinformatician | Genomics | RNA Biology"
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 
 plugins:
-  - jekyll-include-cache
   - jekyll-remote-theme
+  - jekyll-include-cache
+
+minimal_mistakes_skin: default
 
 header_pages:
   - projects.md
   - publications.md
   - outreach.md
   - press.md
- 
