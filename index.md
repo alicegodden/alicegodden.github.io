@@ -89,12 +89,14 @@ A user-friendly, GUI-based tool for analysing **piRNA transposable element expre
 
 - **Godden, A. M.**, Antonaci, M. & Wheeler, G. N. (2023).  
   *An Efficient CRISPR-Cas9 Method to Knock Out MiRNA Expression in Xenopus Tropicalis.*  
-  In *MicroRNA Detection and Target Identification: Methods and Protocols* (Vol. 2630, pp. 231–241). Humana Press  
+  In *MicroRNA Detection and Target Identification: Methods and Protocols* (Vol. 2630, pp. 231–241). Humana Press
+  Full text [here](https://experiments.springernature.com/articles/10.1007/978-1-0716-2982-6_15) 
 
 - Antonaci, M., **Godden, A. M.** & Wheeler, G. N. (2023).  
   *Determining miRNA Expression Patterns in Xenopus.*  
   In *MicroRNA Detection and Target Identification: Methods and Protocols* (Vol. 2630, pp. 145–154). Humana Press  
-  *Co-first author*  
+  *Co-first author*
+  Full text [here](https://link.springer.com/protocol/10.1007/978-1-0716-2982-6_11) 
 
 ---
 
