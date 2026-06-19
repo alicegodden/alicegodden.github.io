@@ -1,33 +1,36 @@
 .page__hero--overlay {
-  background-position: center 60%; /* move image down */
+  background-position: center 60%; /* shift image down */
 }
 
+/* Position content right */
 .page__hero--overlay .wrapper {
   display: flex;
-  justify-content: flex-end; /* pushes content right */
+  justify-content: flex-end;
+  align-items: center;         /* vertical centering */
   text-align: right;
+  padding-right: 6%;           /* space from edge */
 }
 
+/* Limit width so it looks intentional */
 .page__hero--overlay .page__content {
   max-width: 500px;
 }
 
-.page__hero--overlay .wrapper {
-  padding-right: 5%;
-}
-
+/* Title styling */
 .page__hero--overlay .page__title {
   font-size: 2.8rem;
   font-weight: 600;
 }
 
+/* Button styling */
 .page__hero--overlay .btn {
   background-color: #2563EB;
   border-radius: 8px;
   padding: 10px 18px;
+  border: none;
 }
 
+/* Button hover */
 .page__hero--overlay .btn:hover {
   background-color: #14B8A6;
 }
-``
