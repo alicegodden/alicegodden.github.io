@@ -36,7 +36,7 @@ A user-friendly, GUI-based tool for analysing **piRNA transposable element expre
 
 ## 🛠️ Skills & Tools  
 
-**Python · R · Bash · GitHub Actions**
+**Python · R · Bash · Slurm/Unix · GitHub Actions**
 
 ---
 
