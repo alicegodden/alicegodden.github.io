@@ -100,9 +100,9 @@ A user-friendly, GUI-based tool for analysing **piRNA transposable element expre
 
 ### 🧪 Preprints  
 
-- Marcu, D., Cohen-Krais, J., **Godden, A.**, Alavioon, G., Martins, C., Almstrup, K., Immler, S. (2024).  
+- Marcu, D., **Godden, A.**, Cohen-Krais, J., Alavioon, G., Martins, C., Almstrup, K., Immler, S. (2026).  
   *Within-ejaculate haploid selection reduces disease biomarkers in human sperm.*  
-  **bioRxiv**  
+  **bioRxiv**  *Co-first author* 
 
 ---
 ## 📈 GitHub Stats
